@@ -1,0 +1,4 @@
+github.com/fanliao/go-plinq v0.0.0-20140904024428-93416dc6478d h1:5wff2NRj9OQAPp0/EZZ/emJAv/df+ZZFoU8yv23n9rU=
+github.com/fanliao/go-plinq v0.0.0-20140904024428-93416dc6478d/go.mod h1:pYdFabFuWpAsXHoyeLOdPxTK+gv2splLBbraLnvwkDg=
+github.com/fanliao/go-promise v0.0.0-20141029170127-1890db352a72 h1:0eU/faU2oDIB2BkQVM02hgRLJjGzzUuRf19HUhp0394=
+github.com/fanliao/go-promise v0.0.0-20141029170127-1890db352a72/go.mod h1:PjfxuH4FZdUyfMdtBio2lsRr1AKEaVPwelzuHuh8Lqc=
